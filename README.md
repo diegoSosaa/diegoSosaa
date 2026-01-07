@@ -8,7 +8,7 @@
 
 ---
 
-- 🎓 I'm currently studying **Computer Science at UCSP**
+- 🎓 I'm currently studying **Computer Science at the UCSP**
 
 ---
 
