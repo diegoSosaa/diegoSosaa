@@ -9,7 +9,6 @@
 ---
 
 - 🎓 I'm currently studying **Computer Science at UCSP**
-- ✉️ You can contact me at **dgoo.ssosa@gmail.com**
 
 ---
 
